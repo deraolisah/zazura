@@ -6,7 +6,7 @@
 
 ### Simple Resume built and styled with HTML & CSS.
 
-** Live Preview: [https://html-css-resume.surge.sh/](https://html-css-resume.surge.sh/) <br>
+** Live Preview: [deraolisah.github.io/zazura/](deraolisah.github.io/zazura/) <br>
 ** YouTube Tutorial: [https://youtu.be/FHb9JobDs2o][yt-video]
 
 ---
