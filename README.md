@@ -13,7 +13,7 @@
 
 ## Made with ❤️ by [Dera Olisah].
 <a href="https://instagram.com/ui.dera">[ui.dera-ig]</a>
-<a href="https://twitter.com/ui.dera">[deraolisah-tw]</a>
+<a href="https://twitter.com/deraolisah">[deraolisah-tw]</a>
 
 Like my works and want to support me?
 
@@ -40,7 +40,9 @@ Here is the full tutorial video link: [https://youtu.be/FHb9JobDs2o][yt-video].
 
 ### Feedback
 
-If you have any feedback, please reach out to me at [@deraolisah-tw] [@ui.dera-ig]
+If you have any feedback, please reach out to me at 
+<a href="https://twitter.com/deraolisah">[@deraolisah-tw]</a>  
+<a href="https://instagram.com/ui.dera">[@ui.dera-ig]</a>
 
 
 
