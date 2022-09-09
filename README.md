@@ -7,7 +7,7 @@
 ### Simple Resume built and styled with HTML & CSS.
 
 ** Live Preview: [deraolisah.github.io/zazura/](deraolisah.github.io/zazura/) <br>
-** YouTube Tutorial: [https://youtu.be/FHb9JobDs2o][yt-video]
+** YouTube Tutorial: [https://youtu.be/][yt-video]
 
 ---
 
